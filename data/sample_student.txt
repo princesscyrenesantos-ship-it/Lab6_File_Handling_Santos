@@ -1,0 +1,4 @@
+Student Name: Santos
+Student ID: TUPM-26-1866
+Seed Digit: 6
+Activity: Lab 6 File Handling

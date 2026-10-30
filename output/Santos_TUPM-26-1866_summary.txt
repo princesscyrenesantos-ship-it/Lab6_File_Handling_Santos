@@ -1,0 +1,16 @@
+=== LAB 6: FILE HANDLING SUMMARY REPORT ===
+Student Name: Santos
+Student ID: TUPM-26-1866
+Seed Digit: 6
+ID Sum: 29
+Name Length: 6
+Verification Value: 41
+
+Files Generated:
+1. Filtered Text: Santos_TUPM-26-1866_filtered.txt
+2. CSV Record: Santos_TUPM-26-1866_record.csv
+3. JSON Record: Santos_TUPM-26-1866_record.json
+4. Power Filtered: Santos_TUPM-26-1866_power_filtered.txt
+5. Summary Report: Santos_TUPM-26-1866_summary.txt
+
+Status: ALL TASKS COMPLETED & VERIFIED SUCCESSFULLY

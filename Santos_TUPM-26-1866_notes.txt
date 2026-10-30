@@ -1,0 +1,5 @@
+Student: Santos
+Student ID: TUPM-26-1866
+Seed digit: 6
+ID sum: 29
+Verification value: 41
